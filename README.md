@@ -1,2 +1,2 @@
 # chatbot
-This chatbot for blind people
+This chatbot is for blind people
